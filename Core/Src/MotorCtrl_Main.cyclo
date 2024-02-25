@@ -1,0 +1,9 @@
+../Core/Src/MotorCtrl_Main.c:30:6:Init_MotorCtrl_Main_DATA	1
+../Core/Src/MotorCtrl_Main.c:37:6:MotorCtrl_Main_MicroSecond_IRQ_Handler	1
+../Core/Src/MotorCtrl_Main.c:44:10:MotorCtrl_Main_GetMicros	1
+../Core/Src/MotorCtrl_Main.c:51:6:MotorCtrl_Main_Init	1
+../Core/Src/MotorCtrl_Main.c:66:6:MotorCtrl_Main_Task	1
+../Core/Src/MotorCtrl_Main.c:79:6:MotorCtrl_main_StartTim2	1
+../Core/Src/MotorCtrl_Main.c:86:6:MotorCtrl_Main_PWM_Init	1
+../Core/Src/MotorCtrl_Main.c:93:6:GetAnalogValue	2
+../Core/Src/MotorCtrl_Main.c:107:10:ReadCurrent	1

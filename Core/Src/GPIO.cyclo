@@ -1,0 +1,4 @@
+../Core/Src/GPIO.c:10:6:EnableDisableMotor	3
+../Core/Src/GPIO.c:31:6:SetMotorDirection	3
+../Core/Src/GPIO.c:49:6:GetPin_Direction	1
+../Core/Src/GPIO.c:54:6:GetEnableMotorState	1

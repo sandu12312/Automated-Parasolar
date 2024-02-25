@@ -1,0 +1,15 @@
+../Core/Src/MotorCtrl.c:52:6:Init_MotorCtrl_DATA	4	static
+../Core/Src/MotorCtrl.c:68:6:MotorCtrl_Init	16	static
+../Core/Src/MotorCtrl.c:82:6:MotorCtrl	8	static
+../Core/Src/MotorCtrl.c:91:6:SetRelaxMotorCommand	8	static
+../Core/Src/MotorCtrl.c:109:6:SetSpeedForDenormedMotor	4	static
+../Core/Src/MotorCtrl.c:114:6:SetSpeedForReverseMotion	4	static
+../Core/Src/MotorCtrl.c:120:6:Set_MAN_OPN_NormedMotor	8	static
+../Core/Src/MotorCtrl.c:136:6:Set_MAN_CLS_NormedMotor	8	static
+../Core/Src/MotorCtrl.c:153:6:Set_REVERSE_OPEN_Command	8	static
+../Core/Src/MotorCtrl.c:185:6:Set_REVERSE_CLOSE_Command	8	static
+../Core/Src/MotorCtrl.c:216:6:Set_AUT_CLS_Command	8	static
+../Core/Src/MotorCtrl.c:235:6:Set_AUT_OPN_Command	8	static
+../Core/Src/MotorCtrl.c:254:6:Set_MAN_CLS_Command	8	static
+../Core/Src/MotorCtrl.c:273:6:Set_MAN_OPN_Command	8	static
+../Core/Src/MotorCtrl.c:292:6:SetMotorCommand	16	static
