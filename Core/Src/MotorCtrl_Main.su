@@ -1,9 +1,0 @@
-../Core/Src/MotorCtrl_Main.c:30:6:Init_MotorCtrl_Main_DATA	4	static
-../Core/Src/MotorCtrl_Main.c:37:6:MotorCtrl_Main_MicroSecond_IRQ_Handler	4	static
-../Core/Src/MotorCtrl_Main.c:44:10:MotorCtrl_Main_GetMicros	4	static
-../Core/Src/MotorCtrl_Main.c:51:6:MotorCtrl_Main_Init	8	static
-../Core/Src/MotorCtrl_Main.c:66:6:MotorCtrl_Main_Task	8	static
-../Core/Src/MotorCtrl_Main.c:79:6:MotorCtrl_main_StartTim2	8	static
-../Core/Src/MotorCtrl_Main.c:86:6:MotorCtrl_Main_PWM_Init	8	static
-../Core/Src/MotorCtrl_Main.c:93:6:GetAnalogValue	8	static
-../Core/Src/MotorCtrl_Main.c:107:10:ReadCurrent	4	static
